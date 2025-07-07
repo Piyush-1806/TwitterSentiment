@@ -36,4 +36,4 @@ curl -X POST http://localhost:8000/predict -H "Content-Type: application/json" -
 - weights/: Contains model weights
 
 ## Contact
-Email: piyush@example.com
+Email: kunalpatra18@gmail.com
