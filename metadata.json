@@ -1,0 +1,14 @@
+{
+  "model_name": "crypto_sentiment_model",
+  "description": "Classifies sentiment (positive, neutral, negative) in cryptocurrency tweets.",
+  "task": "text-classification",
+  "license": "MIT",
+  "framework": "TensorFlow",
+  "input_format": "text",
+  "output_format": "label",
+  "metrics": {"accuracy": 0.85},
+  "dependencies": ["tensorflow", "transformers"],
+  "author": "Piyush Patra <piyush@example.com>",
+  "version": "1.0.0",
+  "date_created": "2025-07-07"
+}
